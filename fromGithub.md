@@ -6,4 +6,3 @@ After I edit this, I will do git status and see that there have been changes mad
 I will thin use git add to stage the commit, then use git commit to make a commit.
 Lastly, I will use git push to send out the commit.
 
-ima try something new, just saving this edit and using git push
